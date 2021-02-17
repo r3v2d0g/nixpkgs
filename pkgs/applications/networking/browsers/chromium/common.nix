@@ -277,7 +277,7 @@ let
       build_with_tflite_lib = false;
     } // optionalAttrs ungoogled {
       chrome_pgo_phase = 0;
-      enable_hangout_services_extension = false;
+      enable_hangout_services_extension = true;
       enable_js_type_check = false;
       enable_mdns = false;
       enable_nacl_nonsfi = false;
